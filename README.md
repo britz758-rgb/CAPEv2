@@ -82,6 +82,7 @@ Nirvana and debugger-based direct/indirect syscall countermeasures.
 
 ### Classification
 ![image](https://github.com/kevoreilly/CAPEv2/assets/22219888/15b34a87-6b2a-49bd-a58a-d16d5fee438e)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbritz758-rgb%2FCAPEv2.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbritz758-rgb%2FCAPEv2?ref=badge_shield)
 
 Malware can be classified in CAPE via three mechanisms:
 * YARA scans of unpacked payloads
@@ -230,3 +231,7 @@ If you use CAPEv2 in your work, please cite it as specified in the "Cite this re
 * [ReadTheDocs](https://capev2.readthedocs.io/en/latest/#)
 
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fbritz758-rgb%2FCAPEv2.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fbritz758-rgb%2FCAPEv2?ref=badge_large)
